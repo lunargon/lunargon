@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in **bac
 
 Here are some of the technologies and tools I work with:
 
-- **Backend Development**: Gin-Go, FastAPI, Hono, NestJS, etc.
+- **Backend Development**: Go, Python, TS/JS, Rust, etc.
 - **Blockchain**: Solidity, Rust, Ethereum ( EVM), Solana, etc.
 - **Web Development**: HTML, CSS, JavaScript.
 - **Databases**: PostgreSQL, MongoDB, SQLite, etc.
