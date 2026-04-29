@@ -13,7 +13,7 @@ Here are some of the technologies and tools I work with:
 - **Web Development**: HTML, CSS, JavaScript.
 - **Databases**: PostgreSQL, MongoDB, SQLite, etc.
 - **DevOps & Cloud**: Docker, AWS, GCP, etc.
-- **Tools**: Git, VS Code, etc.
+- **Tools**: Git, etc.
 
 ## 📫 How to Reach Me
 
