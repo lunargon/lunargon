@@ -36,23 +36,36 @@ I am a **Backend Engineer** and **Blockchain Developer** passionate about buildi
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
+#### 📩 Message Brokers & Queues
+<p align="left">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+  <img src="https://img.shields.io/badge/NATS-27AED5?style=flat-square&logo=nats.io&logoColor=white" alt="NATS">
+  <img src="https://img.shields.io/badge/BullMQ-9F1239?style=flat-square&logo=redis&logoColor=white" alt="BullMQ">
+</p>
+
 #### ⛓️ Blockchain & Web3
 <p align="left">
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity">
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="EVM">
-  <img src="https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=black" alt="Solana">
+  <img src="https://img.shields.io/badge/Solana-000000?style=flat-square&logo=solana&logoColor=14F195" alt="Solana">
 </p>
 
-#### 🗄️ Databases & DevOps
+#### 🗄️ Databases & Storage (SQL, NoSQL, LSM-Tree)
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Pebble%20(CockroachDB)-00A650?style=flat-square&logo=cockroachlabs&logoColor=white" alt="Pebble">
+</p>
+
+#### 🛠️ DevOps & Infrastructure
+<p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
-
 ---
 
 ### 🤝 Let's Connect!
