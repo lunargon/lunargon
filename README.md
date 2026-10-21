@@ -19,6 +19,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/luan-nguyen-9675b1214
 - **[Microsoft Edit](https://github.com/microsoft/edit)** — Proposed mouse-hover highlighting behavior for the terminal editor ([PR #799](https://github.com/microsoft/edit/pull/799), closed).
 - **[BNB Smart Chain](https://github.com/lunargon/bsc)** — Fixed archive-mode transaction history configuration to preserve user-defined settings and prevent unintended full-chain transaction reindexing. ([PR #3624](https://github.com/bnb-chain/bsc/pull/3624), merged)
 - **[Stacks Core](https://github.com/lunargon/stacks-core)** — Fixed Clarity VM error formatting to suppress empty Stack Trace sections. Originally proposed in [PR #6421](https://github.com/stacks-network/stacks-core/pull/6421); the fix was carried forward by maintainers and merged via [PR #6628](https://github.com/stacks-network/stacks-core/pull/6628).
+- **[Umbrel](https://github.com/getumbrel/umbrel)** — Fixed photo upload date handling by preserving original file modification timestamps when capture metadata is missing. Added timestamp validation, metadata precedence handling, and regression tests. ([PR #2281](https://github.com/getumbrel/umbrel/pull/2281), open)
 
 #### Exploring
 
