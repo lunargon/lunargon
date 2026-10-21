@@ -1,74 +1,35 @@
 <a href="https://app.daily.dev/ntluan"><img src="https://api.daily.dev/devcards/v2/fVCzhvHoA9uy5s0p5VEtF.png?type=default&r=49c" width="356" alt="Valion Hunter's Dev Card"/></a>
+### Hey, I'm Luân (Lunor) 👋
 
-# 🚀 Hi, I'm Luân (Lunor) 
+> Backend engineer & blockchain developer. Interested in how things work under the hood.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/luan-nguyen-9675b1214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:ntluandev999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+I build backend systems, explore storage engines and performance, and enjoy contributing to developer tools and open-source projects. Lately, I've been diving deeper into **Rust**, **Solana**, and native tooling written in **Go**.
 
----
+You can reach me on [LinkedIn](https://www.linkedin.com/in/luan-nguyen-9675b1214/) or by [email](mailto:ntluandev999@gmail.com). I also read and share interesting engineering content on [daily.dev](https://app.daily.dev/ntluan).
 
-### ⚡ About Me
-I am a **Backend Engineer** and **Blockchain Developer** passionate about building high-performance systems and decentralized applications. I love architecture design, optimizing database queries, and writing secure smart contracts.
+#### Building
 
-- 🔭 **Current Focus**: Advanced backend architectures & Web3 protocols.
-- 🦀 **Deep Diving**: Cracking complex problems with **Rust** and exploring the **Solana** ecosystem.
-- 💡 **Core Value**: Scalability, clean code, and decentralized technology.
+- **[bolt-tui](https://github.com/lunargon/bolt-tui)** — A Go/Bubble Tea terminal UI for browsing and editing BoltDB buckets and key-value data.
+- **[FastAPI Simple Boilerplate](https://github.com/lunargon/FastAPI-simple-boilerplate)** — A minimal backend starter with FastAPI, SQL and MongoDB, `uv`, Docker, and CI checks.
 
----
+#### Open-source work
 
-### 🛠️ Open Source & Proof of Work
-- 🐹 **Go**: Contributor to **[go-ethereum (geth)](https://github.com/lunargon/go-ethereum)** & **[binance-smart-chain (bsc)](https://github.com/lunargon/bsc)**.
-- 🦙 **JavaScript / TypeScript**: Contributor to **[DefiLlama](https://github.com/lunargon/DefiLlama-Adapters)**.
-- 🦀 **Rust**: Contributor to **[stacks-core](https://github.com/lunargon/stacks-core)**.
+- **[go-ethereum (Geth)](https://github.com/ethereum/go-ethereum)** — Fixed pruned-history error handling for log queries starting at the genesis block, ensuring the correct error is returned on pruned nodes ([PR #31941](https://github.com/ethereum/go-ethereum/pull/31941), merged).
+- **[Mayoi](https://github.com/sorrycc/Mayoi)** — Fixed a Linux/GTK crash caused by menu updates during rendering. Deferred native menu updates, prevented stale updates, and added regression tests ([PR #55](https://github.com/sorrycc/Mayoi/pull/55), merged).
+- **[Microsoft Edit](https://github.com/microsoft/edit)** — Proposed mouse-hover highlighting behavior for the terminal editor ([PR #799](https://github.com/microsoft/edit/pull/799), closed).
+- **[BNB Smart Chain](https://github.com/lunargon/bsc)** — Fixed archive-mode transaction history configuration to preserve user-defined settings and prevent unintended full-chain transaction reindexing. ([PR #3624](https://github.com/bnb-chain/bsc/pull/3624), merged)
+- **[Stacks Core](https://github.com/lunargon/stacks-core)** — Fixed Clarity VM error formatting to suppress empty Stack Trace sections. Originally proposed in [PR #6421](https://github.com/stacks-network/stacks-core/pull/6421); the fix was carried forward by maintainers and merged via [PR #6628](https://github.com/stacks-network/stacks-core/pull/6628).
 
----
+#### Exploring
 
-### 🛠️ Tech Stack & Tools
+- **[DefiLlama Adapters](https://github.com/lunargon/DefiLlama-Adapters)** — Fork of DefiLlama's community-maintained DeFi data adapters.
+- **[solana-go](https://github.com/lunargon/solana-go)** — Fork of the Go SDK and RPC client for Solana.
 
-#### 🖥️ Backend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-</p>
+#### Tools I work with
 
-#### 📩 Message Brokers & Queues
-<p align="left">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
-  <img src="https://img.shields.io/badge/NATS-27AED5?style=flat-square&logo=nats.io&logoColor=white" alt="NATS">
-  <img src="https://img.shields.io/badge/BullMQ-9F1239?style=flat-square&logo=redis&logoColor=white" alt="BullMQ">
-</p>
+- **Languages:** Go, Rust, Python, TypeScript, JavaScript, Solidity
+- **Data & messaging:** PostgreSQL, MongoDB, SQLite, Pebble, Redis, RabbitMQ, NATS, BullMQ
+- **Blockchain:** Ethereum / EVM, Solana, smart contracts
+- **Infrastructure:** Docker, AWS, GCP, Git
 
-#### ⛓️ Blockchain & Web3
-<p align="left">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity">
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="EVM">
-  <img src="https://img.shields.io/badge/Solana-000000?style=flat-square&logo=solana&logoColor=14F195" alt="Solana">
-</p>
-
-#### 🗄️ Databases & Storage (SQL, NoSQL, LSM-Tree)
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Pebble%20(CockroachDB)-00A650?style=flat-square&logo=cockroachlabs&logoColor=white" alt="Pebble">
-</p>
-
-#### 🛠️ DevOps & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-</p>
----
-
-### 🤝 Let's Connect!
-Feel free to explore my repositories. If you want to talk about system design, Web3 protocols, or just exchange cool code snippets, don't hesitate to reach out! 
-
-*"Talk is cheap. Show me the code."* 😉
+I'm always interested in a good conversation about backend architecture, storage systems, or Web3 protocols.
